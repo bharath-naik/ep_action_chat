@@ -1,0 +1,18 @@
+{
+  "name": "ep_action_chat",
+  "version": "0.0.1",
+  "description": "action pad for new group discussion",
+  "main": "index.js",
+  "keywords": [
+    "actionpad"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "bundleDependencies": false,
+  "contributors": [],
+  "deprecated": false
+}

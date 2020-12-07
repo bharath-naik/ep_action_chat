@@ -1,0 +1,10 @@
+{
+  "parts": [
+    {
+      "name": "ep_action_chat",
+      "hooks": {
+        "padCreate" : "ep_action_chat/index:padcapture"
+      }
+    }
+  ]
+}
